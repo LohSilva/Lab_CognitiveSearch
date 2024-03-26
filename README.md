@@ -83,6 +83,7 @@ Imagens das consultas realizadas durante o laboratório:
 </div>
 
 </p>
+
 5. **Aplicações possíveis:**
 
 - Utilizar os insights extraídos para tomar decisões mais inteligentes.
