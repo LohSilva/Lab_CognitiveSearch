@@ -44,7 +44,7 @@
 <p>
 
 <div align="center">
- <img src="anexar result_index" width="600" />
+ <img src="https://github.com/LohSilva/Lab_CognitiveSearch/blob/main/inputs/result_index.png" width="600" />
 </div>
 
 </p>
@@ -61,7 +61,7 @@ Imagens das consultas realizadas durante o laboratório:
 <p>
 
 <div align="center">
- <img src="anexar json_count" width="600" />
+ <img src="https://github.com/LohSilva/Lab_CognitiveSearch/blob/main/inputs/json_count.png" width="600" />
 </div>
 
 </p>
@@ -70,7 +70,7 @@ Imagens das consultas realizadas durante o laboratório:
 <p>
 
 <div align="center">
- <img src="anexar json_localizacao" width="600" />
+ <img src="https://github.com/LohSilva/Lab_CognitiveSearch/blob/main/inputs/json_localizacao.png" width="600" />
 </div>
 
 </p>
@@ -79,7 +79,7 @@ Imagens das consultas realizadas durante o laboratório:
 <p>
 
 <div align="center">
- <img src="anexar json_sentimento_negativo" width="600" />
+ <img src="https://github.com/LohSilva/Lab_CognitiveSearch/blob/main/inputs/json_sentimento_negativo.png" width="600" />
 </div>
 
 </p>
